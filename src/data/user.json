@@ -1,0 +1,37 @@
+{
+	"name": "Johan George",
+	"profession": "Senior Year Engg Student",
+	"links": [
+		{
+			"url": "https://jo-g-github-io.vercel.app/",
+			"icon": "link",
+			"title": "Personal Portfolio",
+			"description": "All my latest design projects"
+		},
+		
+		{
+			"url": "https://github.com/ft-johan",
+			"icon": "github-fill",
+			"title": "Github",
+			"description": "Discover templates that suit you"
+		},
+		{
+			"url": "https://linkedin.com/in/johan-george-",
+			"icon": "linkedin-fill",
+			"title": "LinkedIn",
+			"description": "Every Friday a new episode"
+		},
+		{
+			"url": "https://www.instagram.com/ft._johan/",
+			"icon": "instagram-line",
+			"title": "Instagram Profile",
+			"description": "Designer lifestyle and more"
+		},
+		{
+			"url": "https://www.youtube.com/@johangeorge7149",
+			"icon": "youtube-fill",
+			"title": "Youtube Channel",
+			"description": "All my latest design projects"
+		}
+	]
+}
